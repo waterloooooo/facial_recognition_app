@@ -19,7 +19,7 @@ A simple facial recognition web application built with Flask and [face_recogniti
 - **face_recognition** – Facial recognition powered by dlib
 - **OpenCV (cv2)** – Image decoding and preprocessing
 - **NumPy** – Image buffer handling
-- **HTML/CSS** – Basic front-end via Jinja2
+- **HTML/CSS** – Basic front-end
 
 ---
 
